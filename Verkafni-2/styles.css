@@ -1,0 +1,19 @@
+body {
+    max-width: 50em;
+    margin: 1em auto; /* top+bottom og left+left*/
+    border: 2px solid red;
+    padding: 1em;
+    background-color: gray;
+    color: aliceblue;
+    font-family:     ;
+}
+
+h1{
+    color:red
+}
+ul li {
+    color:green
+}
+ol li {
+    color:blue
+}
