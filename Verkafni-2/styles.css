@@ -1,11 +1,12 @@
 body {
     max-width: 50em;
     margin: 1em auto; /* top+bottom og left+left*/
-    border: 2px solid red;
+    border: 2px solid blue;
     padding: 1em;
     background-color: gray;
     color: aliceblue;
-    font-family:     ;
+    font-family:     Arial, Helvetica, sans-serif;
+    line-height: 1.5;
 }
 
 h1{
